@@ -11,20 +11,18 @@ main:
   - title: "Mug Cup Can Straw"
     url: /mugcupcanstraw/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Remy Chacón Music"
+    url: /music/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Short Film"
+    url: /film/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Poems"
+    url: /poems/
         
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
+  - title: "Scripts etc"
+    url: /scripts/
+  
     
   # - title: "CV"
   #   url: /cv-json/
