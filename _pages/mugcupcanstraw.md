@@ -1,7 +1,6 @@
 ---
 title: "Mug Cup Can Straw!"
 excerpt: "silly and lovely music for kids of all ages!<br/><img src='/images/500x300.png'>"
-collection: mugcupcanstraw
 permalink: /mugcupcanstraw/
 ---
 
