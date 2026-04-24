@@ -25,12 +25,9 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Remy Chacón"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "musician, poet, actor, filmmaker, writer"
   location         : "Earth"
-  employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
 
   # Academic websites
   academia         : # URL
